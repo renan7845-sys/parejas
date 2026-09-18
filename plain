@@ -1,0 +1,8 @@
+parejas-guard/
+├── .github/workflows/build.yml
+├── settings.gradle
+├── build.gradle
+├── app/build.gradle
+├── app/src/main/AndroidManifest.xml
+├── app/src/main/java/com/tuusuario/parejasguard/BlockerService.kt
+└── app/src/main/res/xml/blocker_service_config.xml
